@@ -1,0 +1,14 @@
+layout_spectrum: 0.7360877
+typography_spectrum: 0.4682595
+color:
+  saturation: 0.4714274
+  brandStrength: 0.9828902
+  lightness: 0.4114671
+  rhythmicContrast: 0.06588867
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Monokul
